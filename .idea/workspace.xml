@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8030700b-0d29-4ecc-aebf-128c3ddbc145" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -11,11 +12,15 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ccbb/Controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ccbb/Controller/MemberController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ccbb/model/Membre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ccbb/model/Membre.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="4ef532cd-51c2-4c7d-b317-18df7f919a4c" name="Changes" comment="" />
+>>>>>>> fa42b39 (projet)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -39,6 +44,11 @@
     "accountId": "607bf43c-faa6-462b-8ef5-4e1347914486"
   }
 }]]></component>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> fa42b39 (projet)
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -47,9 +57,15 @@
     </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+<<<<<<< HEAD
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2q9jwKopfPOhzqGHfq3X4YIox5c" />
+=======
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2qAcNAkb3odLq0eSMOBOwCgTLYj" />
+>>>>>>> fa42b39 (projet)
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -58,11 +74,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+=======
+>>>>>>> fa42b39 (projet)
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+<<<<<<< HEAD
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\IdeaProjects\CCBB\Superviseur-System" />
@@ -90,4 +110,17 @@
       </map>
     </option>
   </component>
+=======
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ef532cd-51c2-4c7d-b317-18df7f919a4c" name="Changes" comment="" />
+      <created>1734108781964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734108781964</updated>
+    </task>
+    <servers />
+  </component>
+>>>>>>> fa42b39 (projet)
 </project>
