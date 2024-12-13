@@ -1,6 +1,5 @@
 package org.example.ccbb.model;
 import java.util.ArrayList;
-import java.util.List;
 
 public class Membre {
     private String identifiant;

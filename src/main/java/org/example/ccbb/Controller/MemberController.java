@@ -5,9 +5,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Alert;
 import org.example.ccbb.DB.DbConnection;
 
-import java.awt.event.ActionEvent;
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.UUID;
